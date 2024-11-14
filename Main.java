@@ -7,4 +7,8 @@ class Main {
     public static int addition(int first, int second) {
         return first + second;
     }
+
+    public static int subtract(int first, int second) {
+        return first - second;
+    }
 }
